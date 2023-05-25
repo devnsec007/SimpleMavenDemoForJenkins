@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="94" started-at="2021-07-20T20:35:09 IST" finished-at="2021-07-20T20:35:09 IST">
+  <suite started-at="2023-05-25T19:23:02 IST" name="Default suite" finished-at="2023-05-25T19:23:03 IST" duration-ms="79">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="94" started-at="2021-07-20T20:35:09 IST" finished-at="2021-07-20T20:35:09 IST">
+    <test started-at="2023-05-25T19:23:02 IST" name="Default test" finished-at="2023-05-25T19:23:03 IST" duration-ms="79">
+      <class name="sampleDemoTest">
+        <test-method signature="test001()[pri:0, instance:sampleDemoTest@3f197a46]" started-at="2023-05-25T19:23:03 IST" name="test001" finished-at="2023-05-25T19:23:03 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test001 -->
+      </class> <!-- sampleDemoTest -->
       <class name="com.qa.test.TestngTestpkg">
-        <test-method status="PASS" signature="Test001()[pri:0, instance:com.qa.test.TestngTestpkg@1500955a]" name="Test001" duration-ms="19" started-at="2021-07-20T20:35:09 IST" finished-at="2021-07-20T20:35:09 IST">
+        <test-method signature="Test001()[pri:0, instance:com.qa.test.TestngTestpkg@76508ed1]" started-at="2023-05-25T19:23:03 IST" name="Test001" finished-at="2023-05-25T19:23:03 IST" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test001 -->

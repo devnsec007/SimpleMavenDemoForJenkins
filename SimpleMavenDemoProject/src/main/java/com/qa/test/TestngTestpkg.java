@@ -9,7 +9,7 @@ public class TestngTestpkg {
 	
 	public void Test001() {
 		
-		System.out.println("TEST");
+		System.out.println("TESTing");
 		
 	}
 	
