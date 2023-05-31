@@ -9,7 +9,7 @@ public class TestngTestpkg {
 	
 	public void Test001() {
 		
-		System.out.println("TESTing 123 Run Maven 1 1");
+		System.out.println("TESTing 123 Run Maven 1 1 1");
 		
 	}
 	
