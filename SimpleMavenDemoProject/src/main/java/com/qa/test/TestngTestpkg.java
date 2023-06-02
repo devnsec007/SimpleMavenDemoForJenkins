@@ -9,7 +9,7 @@ public class TestngTestpkg {
 	
 	public void Test001() {
 		
-		System.out.println("This is sample development project2");
+		System.out.println("This is sample development project3");
 		
 	}
 	
